@@ -1,7 +1,7 @@
 # Task Management API – TODO
 
 ## Phase 1: Design & Structure
-- [ ] Define core entities (User, Task)
+- [ ] Define core entities (User, Task, subTask)
 - [ ] Define API endpoints (CRUD for tasks)
 - [ ] Decide auth strategy (JWT)
 - [ ] Write API contract (request/response examples)
